@@ -15,4 +15,4 @@ mix.js([
   'resources/assets/js/vue.js',
   'resources/assets/js/axios.js',
   'resources/assets/js/app.js',
-], 'public/css/app.js');
+], 'public/js/app.js');
